@@ -8,9 +8,15 @@
 // 如: 京东账号1的shareCode1@京东账号1的shareCode2&京东账号2的shareCode1@京东账号2的shareCode2
 let PlantBeanShareCodes = [
   //账号一的好友shareCode,不同好友的shareCode中间用@符号隔开
-  'mlrdw3aw26j3wflpva4usauts5ecdk3fted7y5q',
+  'mlrdw3aw26j3x42m2iojayfn4ketosoiiatvt7q',
   //账号二的好友shareCode,不同好友的shareCode中间用@符号隔开
-  'mlrdw3aw26j3wflpva4usauts5ecdk3fted7y5q',
+  'e7lhibzb3zek3uh4urbt2fngmtcxoxiujzwdpyq',
+  '4npkonnsy7xi36q7awrbknl7j26u7twtqseaz6y',
+  'nbkqea4wnjbgqcjkaoz2tdfqjqvufc5odbaagyq',
+  'olmijoxgmjutzpqhn532qvozyvzzxgax4tiynja',
+  'fn5sjpg5zdejm75r7cld6z3resrgu6bu3pcridi',
+  'e7lhibzb3zek2k7agnofcrvin2i44pkdexkbzqq',
+  'e7lhibzb3zek2qysmgmbuilkadd57mhb2f7dcei',
 ]
 // 判断github action里面是否有种豆得豆互助码
 if (process.env.PLANT_BEAN_SHARECODES) {
